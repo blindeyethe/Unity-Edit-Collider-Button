@@ -1,5 +1,5 @@
 using UnityEditor;
-using Line_Collider.EditorExtensions;
+using TheBlindEye.EditorExtensions;
 
 namespace TheBlindEye
 {
